@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[SQL SELECT]]></title>
+    <url>%2F2019%2F07%2F15%2FSelect%2F</url>
+    <content type="text"><![CDATA[SQL SELECT SQL Syntax SELECT col_name FROM table_name; Example Order 資料表內容： OrderIDCustomerNamePrice 1Lebron James1000 2Kobe Bryant2500 3Jeremy Lin800 Syntax： SELECT OrderID,CustomerName FROM Order Output： OrderIDCustomerName 1Lebron James 2Kobe Bryant 3Jeremy Lin]]></content>
+      <categories>
+        <category>SQL</category>
+      </categories>
+      <tags>
+        <tag>SQL_SELECT</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[test]]></title>
     <url>%2F2019%2F07%2F02%2Ftest%2F</url>
     <content type="text"></content>
